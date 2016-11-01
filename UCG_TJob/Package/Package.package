@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="03c1ed38-d1db-48f3-be3c-d4c82c84ee3d" solutionId="03c1ed38-d1db-48f3-be3c-d4c82c84ee3d" resetWebServer="false" sharePointProductVersion="15.0" name="UCG_TJob" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="7a7d4942-db7d-4f4f-87eb-8e499a5bab5e" />
+  </features>
+</package>

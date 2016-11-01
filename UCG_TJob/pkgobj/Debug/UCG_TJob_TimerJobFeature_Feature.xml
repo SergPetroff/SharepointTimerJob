@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="UCG_TJob Feature" AlwaysForceInstall="TRUE" Description="Уведомление журнала управляющих" Id="416ff0cd-30f9-484a-bc79-f7e7b70e7027" ReceiverAssembly="UCG_TJob, Version=1.5.0.0, Culture=neutral, PublicKeyToken=572081d785f8c6c6" ReceiverClass="UCG_TJob.Features.TimerJobFeature.TimerJobFeatureEventReceiver" Scope="WebApplication"></Feature>

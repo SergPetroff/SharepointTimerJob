@@ -1,0 +1,6 @@
+c:\users\spsandbox\documents\visual studio 2013\Projects\UCG_TJob\UCG_TJob\obj\Debug\UCG_TJob.csprojResolveAssemblyReference.cache
+C:\Users\portal\Documents\Visual Studio 2013\Projects\UCG_TJob\UCG_TJob\bin\Debug\UCG_TJob.dll
+C:\Users\portal\Documents\Visual Studio 2013\Projects\UCG_TJob\UCG_TJob\bin\Debug\UCG_TJob.pdb
+C:\Users\portal\Documents\Visual Studio 2013\Projects\UCG_TJob\UCG_TJob\obj\Debug\UCG_TJob.csprojResolveAssemblyReference.cache
+C:\Users\portal\Documents\Visual Studio 2013\Projects\UCG_TJob\UCG_TJob\obj\Debug\UCG_TJob.dll
+C:\Users\portal\Documents\Visual Studio 2013\Projects\UCG_TJob\UCG_TJob\obj\Debug\UCG_TJob.pdb
